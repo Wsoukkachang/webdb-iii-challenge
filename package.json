@@ -1,0 +1,23 @@
+{
+  "name": "webdb-iii-challenge",
+  "version": "1.0.0",
+  "description": "Web DB III Challenge Module",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "William Soukkachang",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "knex": "^0.17.5",
+    "node": "^12.4.0",
+    "nodemon": "^1.19.1",
+    "sqlite3": "^4.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
